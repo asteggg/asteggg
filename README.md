@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @asteggg
+- 👀 I’m interested in java and python development
+- 🌱 I’m currently learning java,phyton
+- 📫 How to reach me contact asteggg@mail.ru
